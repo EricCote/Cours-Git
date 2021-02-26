@@ -1,4 +1,6 @@
-# Installer Git pour la formation
+# Installation pour la formation Git
+
+![logo Afi](img/logoAfi.svg)
 
 1. Installer Visual Studio Code
 2. Installer Git
