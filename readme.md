@@ -10,6 +10,8 @@
 
 Installer visual Studio Code à partir du site web officiel. https://code.visualstudio.com/
 
+![VS Code website](img/vscode.png)
+
 ## Installer Git
 
 Installer Git à partir du site officiel. https://git-scm.com/.
@@ -36,4 +38,6 @@ Les écrans avec du **_rouge_** sont modifiés.
 ## Créer un compte sur GitHub.com
 
 Allez sur github.com et créez un compte. https://github.com
+
+![Github  website](img/github.png)
 
